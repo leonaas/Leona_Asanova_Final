@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Leona_Asanova_Final</string>
+    <string name="home">Home</string>
+    <string name="addresss">21-42-34, Baniara Hills, Hyder...</string>
+    <string name="search_food">Search food nearby</string>
+    <string name="rescued_food">Rescued Food</string>
+    <string name="saving_food_and_hunger">Saving food and hunger.</string>
+    <string name="big_text">Left over food and supplies are gathered from food venders and chefs, and are sold for 50% off!</string>
+    <string name="get_them_now">Get them now!</string>
+    <string name="rescued">RESCUED</string>
+    <string name="_50_off">50% OFF</string>
 </resources>
